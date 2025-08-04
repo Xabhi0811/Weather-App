@@ -51,7 +51,7 @@ axios
 bash
 Copy
 Edit
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Xabhi0811/Weather-App.git
 cd weather-app
 2️⃣ Setup Backend
 bash
