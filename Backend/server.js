@@ -1,4 +1,4 @@
-// server.js
+
 const express = require("express");
 const axios = require("axios");
 const cors = require("cors");
@@ -45,3 +45,4 @@ app.get("/weather", async (req, res) => {
 app.listen(4000, () => {
   console.log(" Server running on 4000");
 });
+
